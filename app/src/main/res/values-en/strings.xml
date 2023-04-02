@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorLeljak</string>
+    <string name="number_of_years">Number of years</string>
+    <string name="starting_amount">Starting amount</string>
+    <string name="monthly_addition">Monthly addition</string>
+    <string name="yearly_interest">Yearly interest %</string>
+    <string name="button_text">Calculate</string>
+    <string name="title">Compound interest calculator</string>
+    <string name="empty_input">Value is required</string>
+    <string name="invalid_integer">Value must be positive number</string>
+    <string name="invalid_percentage">Value must be number between 0 and 100</string>
+    <string name="result">Total amount</string>
+    <string name="dark_theme">Dark theme</string>
+</resources>

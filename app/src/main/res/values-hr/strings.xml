@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorLeljak</string>
+    <string name="number_of_years">Broj godina</string>
+    <string name="starting_amount">Početni iznos</string>
+    <string name="monthly_addition">Mjesečni dodatak</string>
+    <string name="yearly_interest">Godinšnja kamata %</string>
+    <string name="button_text">Izračunaj</string>
+    <string name="title">Kalkulator složenih kamata</string>
+    <string name="empty_input">" Vrijednost je obavezna"</string>
+    <string name="invalid_integer">" Vrijednost mora biti pozitivan broj"</string>
+    <string name="invalid_percentage">Vrijednost mora biti pozitivan broj</string>
+    <string name="result">Ukupan izons</string>
+    <string name="dark_theme">Tamna tema</string>
+</resources>

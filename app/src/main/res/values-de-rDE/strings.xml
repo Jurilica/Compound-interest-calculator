@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorLeljak</string>
+    <string name="number_of_years">Anzahl von Jahren</string>
+    <string name="starting_amount">Startbetrag</string>
+    <string name="monthly_addition">Monatliche Zugabe</string>
+    <string name="yearly_interest">Jahreszins %</string>
+    <string name="button_text">Berechnung</string>
+    <string name="title">Rechner für Zinseszinsen</string>
+    <string name="empty_input">Wert ist erforderlich</string>
+    <string name="invalid_integer">Der Wert muss eine positive Zahl sein</string>
+    <string name="invalid_percentage">Der Wert muss eine Zahl zwischen 0 und 100 sein</string>
+    <string name="result">Gesamtmenge</string>
+    <string name="dark_theme">Dunkles Thema</string>
+</resources>
