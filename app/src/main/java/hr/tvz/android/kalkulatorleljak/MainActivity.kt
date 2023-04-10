@@ -100,8 +100,7 @@ class MainActivity : AppCompatActivity() {
             total += monthlyInterest + monthlyAdditions
         }
 
-        val df = DecimalFormat("#,###.##")
-
+        val df = DecimalFormat("#,###.00")
         binding.resultOutput.text = df.format(total)
     }
 
